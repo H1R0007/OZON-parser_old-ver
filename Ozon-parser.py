@@ -75,7 +75,7 @@ def get_searchpage_cards(driver, url, all_cards):
     return cards_in_page
 
 # -- coding: cp1251 --
-bot = telebot.TeleBot("7734378904:AAFMwijeoyBwm-gepLcR88jo5KNFvZJQVeY")
+bot = telebot.TeleBot("XXX")
 
 command_list = """
 Команды, доступные для вас:
